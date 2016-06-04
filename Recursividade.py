@@ -46,3 +46,6 @@ def pot(base, expoente):
     return x
              
 print(pot(2,10))                
+
+
+print("SOu eu, 13:46")
