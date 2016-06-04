@@ -48,4 +48,5 @@ def pot(base, expoente):
 print(pot(2,10))                
 
 
-print("SOu eu, 13:46")
+print("Corrigido às 14:06")
+print("Ok");
