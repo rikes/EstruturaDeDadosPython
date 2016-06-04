@@ -34,3 +34,4 @@ for i in f:
 
 print("Foi no baile, que ela lançou!! 14:07");
 mar oi
+sad
