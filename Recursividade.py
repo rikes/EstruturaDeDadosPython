@@ -50,3 +50,4 @@ print(pot(2,10))
 
 print("Corrigido às 14:06")
 print("Ok");
+Cacete!!
