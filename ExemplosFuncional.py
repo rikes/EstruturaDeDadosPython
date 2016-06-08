@@ -32,6 +32,3 @@ print("Filter:")
 for i in f:
     print(i)
 
-print("Foi no baile, que ela lançou!! 15:18");
-remove
-mar oi
