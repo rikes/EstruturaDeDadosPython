@@ -39,11 +39,10 @@ print(potencia(2,1))
 #Potencia sem Recursividade
 def pot(base, expoente):
     if(expoente == 0):
-        return 1 
+        return 1
     x = 1
     for i in range(1,expoente+1):        
         x = base * x
     return x
              
-print(pot(2,10))                
-
+print(pot(2,10))
