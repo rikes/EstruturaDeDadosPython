@@ -47,7 +47,3 @@ def pot(base, expoente):
              
 print(pot(2,10))                
 
-
-print("Corrigido às 15:19")
-print("Ok");
-Cacete!! ok
